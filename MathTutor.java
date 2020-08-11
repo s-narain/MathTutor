@@ -1,5 +1,3 @@
-// Selina Narain February 11 2020
-
 import java.util.Scanner;
 import java.util.Random;
 
